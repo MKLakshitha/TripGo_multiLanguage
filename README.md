@@ -71,7 +71,7 @@ To access the multi-language version of the application:
 
 3. **Start the multi-language version**
    ```bash
-   docker-compose up -d
+   docker-compose up --build
    ```
 
 4. **Access the application**

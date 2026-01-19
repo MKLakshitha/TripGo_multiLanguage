@@ -134,6 +134,7 @@
   "myBookings": {
     "title": "Meine",
     "bookings": "Buchungen",
+    "subtitle": "Verfolgen und verwalten Sie alle Ihre Reisebuchungen an einem Ort",
     "travelHistory": "Ihre Reisehistorie",
     "searchPlaceholder": "Suche nach Tourname oder Reisename...",
     "filterByStatus": "Nach Status filtern",
@@ -156,7 +157,14 @@
     "clearFilters": "Filter löschen",
     "error": "Hoppla! Etwas ist schief gelaufen",
     "tryAgain": "Erneut versuchen",
-    "fetchError": "Fehler beim Abrufen der Buchungen."
+    "fetchError": "Fehler beim Abrufen der Buchungen.",
+    "showing": "Anzeige",
+    "of": "von",
+    "bookingsText": "Buchungen",
+    "people": "Personen",
+    "specialRequests": "Besondere Wünsche",
+    "totalBookings": "Gesamtbuchungen",
+    "totalSpent": "Gesamt ausgegeben"
   },
   "about": {
     "title": "Willkommen bei",
@@ -188,7 +196,14 @@
     "phone": "Telefon",
     "phoneLine": "+49 555 123-4567",
     "email": "E-Mail",
-    "emailLine": "info@tripgo.com"
+    "emailLine": "info@tripgo.com",
+    "contactUs": "Kontaktieren Sie uns",
+    "emailLabel": "E-Mail",
+    "emailContact": "contact@tripgo.com",
+    "phoneLabel": "Telefon",
+    "phoneContact": "+91-9130045670",
+    "addressLabel": "Adresse",
+    "addressContact": "Ghaziabad, Indien"
   },
   "common": {
     "loading": "Laden...",

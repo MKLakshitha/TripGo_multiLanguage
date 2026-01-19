@@ -1,11 +1,12 @@
 import React from "react";
-import { useLocation } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import useBooking from "../hooks/useCreateBooking";
 import { useTranslation } from "react-i18next";
 
 const Booking = () => {
   const location = useLocation();
+  const navigate = useNavigate();
   const tour = location.state?.tour;
   const { t } = useTranslation();
 
@@ -15,7 +16,7 @@ const Booking = () => {
   const { title = "" } = tour;
 
   const { formData, totalPrice, isSubmitting, handleChange, handleSubmit } =
-    useBooking(tour);
+    useBooking(tour, navigate);
 
   // Animation variants
   const containerVariants = {
@@ -205,37 +206,37 @@ const Booking = () => {
           >
             <div className="sticky top-8">
               <div className="bg-white/80 backdrop-blur-sm rounded-2xl shadow-xl border border-white/20 p-6">
-                <h3 className="text-xl font-semibold text-gray-800 mb-4 flex items-center">
-                  <div className="w-8 h-8 bg-gradient-to-r from-green-500 to-blue-500 rounded-full flex items-center justify-center mr-3">
+                <h3 className="text-lg sm:text-xl font-semibold text-gray-800 mb-4 flex items-center flex-wrap break-words">
+                  <div className="w-8 h-8 bg-gradient-to-r from-green-500 to-blue-500 rounded-full flex items-center justify-center mr-3 flex-shrink-0">
                     <span className="text-white text-sm font-bold">₹</span>
                   </div>
-                  {t("booking.bookingSummary")}
+                  <span className="break-words">{t("booking.bookingSummary")}</span>
                 </h3>
 
                 <div className="space-y-4 mb-6">
-                  <div className="flex justify-between items-center py-2 border-b border-gray-200">
-                    <span className="text-gray-600">{t("booking.tourName")}</span>
-                    <span className="font-semibold text-gray-800 text-right text-sm">
+                  <div className="flex justify-between items-start gap-2 py-2 border-b border-gray-200">
+                    <span className="text-gray-600 text-sm sm:text-base break-words">{t("booking.tourName")}</span>
+                    <span className="font-semibold text-gray-800 text-right text-sm break-words max-w-[50%]">
                       {title}
                     </span>
                   </div>
-                  <div className="flex justify-between items-center py-2 border-b border-gray-200">
-                    <span className="text-gray-600">{t("booking.basePrice")}</span>
-                    <span className="font-semibold text-gray-800">
+                  <div className="flex justify-between items-start gap-2 py-2 border-b border-gray-200">
+                    <span className="text-gray-600 text-sm sm:text-base break-words">{t("booking.basePrice")}</span>
+                    <span className="font-semibold text-gray-800 whitespace-nowrap text-sm sm:text-base">
                       ₹{tour.price.toLocaleString()}
                     </span>
                   </div>
-                  <div className="flex justify-between items-center py-2 border-b border-gray-200">
-                    <span className="text-gray-600">{t("booking.travelers")}</span>
-                    <span className="font-semibold text-gray-800">
+                  <div className="flex justify-between items-start gap-2 py-2 border-b border-gray-200">
+                    <span className="text-gray-600 text-sm sm:text-base break-words">{t("booking.travelers")}</span>
+                    <span className="font-semibold text-gray-800 whitespace-nowrap text-sm sm:text-base">
                       {formData.travelers}
                     </span>
                   </div>
-                  <div className="flex justify-between items-center py-3 bg-gradient-to-r from-blue-50 to-purple-50 rounded-lg px-4 border-2 border-blue-200">
-                    <span className="text-lg font-bold text-gray-800">
+                  <div className="flex justify-between items-start gap-2 py-3 bg-gradient-to-r from-blue-50 to-purple-50 rounded-lg px-4 border-2 border-blue-200">
+                    <span className="text-sm sm:text-base font-bold text-gray-800 break-words">
                       {t("booking.totalAmount")}
                     </span>
-                    <span className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+                    <span className="text-lg sm:text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent whitespace-nowrap">
                       ₹{totalPrice.toLocaleString()}
                     </span>
                   </div>

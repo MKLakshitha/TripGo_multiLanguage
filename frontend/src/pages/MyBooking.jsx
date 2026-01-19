@@ -153,7 +153,7 @@ const MyBooking = () => {
             </span>
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Track and manage all your travel bookings in one place
+            {t("myBookings.subtitle")}
           </p>
         </div>
 
@@ -195,15 +195,15 @@ const MyBooking = () => {
             {/* Results Count */}
             <div className="mt-4 pt-4 border-t border-gray-200">
               <p className="text-gray-600">
-                Showing{" "}
+                {t("myBookings.showing")}{" "}
                 <span className="font-semibold text-gray-800">
                   {filteredBookings.length}
                 </span>{" "}
-                of{" "}
+                {t("myBookings.of")}{" "}
                 <span className="font-semibold text-gray-800">
                   {bookings.length}
                 </span>{" "}
-                bookings
+                {t("myBookings.bookingsText")}
               </p>
             </div>
           </div>
@@ -276,7 +276,7 @@ const MyBooking = () => {
                             <div>
                               <div className="text-gray-500">{t("booking.travelers")}</div>
                               <div className="font-semibold text-gray-800">
-                                {booking.travelers} people
+                                {booking.travelers} {t("myBookings.people")}
                               </div>
                             </div>
                           </div>
@@ -326,7 +326,7 @@ const MyBooking = () => {
                           <div className="mt-3 p-3 bg-blue-50 rounded-lg border-l-4 border-blue-400">
                             <div className="text-sm">
                               <span className="font-semibold text-blue-800">
-                                Special Requests:{" "}
+                                {t("myBookings.specialRequests")}:{" "}
                               </span>
                               <span className="text-blue-700">
                                 {booking.specialRequests}
@@ -336,18 +336,7 @@ const MyBooking = () => {
                         )}
                       </div>
 
-                      {/* Right Section - Actions */}
-                      <div className="flex flex-col space-y-2 lg:ml-6">
-                        <button className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white font-semibold py-2 px-4 rounded-lg transition-all duration-300 transform hover:scale-105 flex items-center justify-center space-x-2">
-                          <Eye size={16} />
-                          <span>{t("myBookings.viewInvoice")}</span>
-                        </button>
 
-                        <button className="bg-white hover:bg-gray-50 border-2 border-gray-200 hover:border-gray-300 text-gray-700 font-semibold py-2 px-4 rounded-lg transition-all duration-300 flex items-center justify-center space-x-2">
-                          <Download size={16} />
-                          <span>{t("myBookings.downloadInvoice")}</span>
-                        </button>
-                      </div>
                     </div>
                   </div>
                 );
@@ -362,13 +351,13 @@ const MyBooking = () => {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
               <div>
                 <div className="text-2xl font-bold">{bookings.length}</div>
-                <div className="text-blue-100">Total Bookings</div>
+                <div className="text-blue-100">{t("myBookings.totalBookings")}</div>
               </div>
               <div>
                 <div className="text-2xl font-bold">
                   {bookings.filter((b) => b.status === "confirmed").length}
                 </div>
-                <div className="text-blue-100">Confirmed</div>
+                <div className="text-blue-100">{t("myBookings.confirmed")}</div>
               </div>
               <div>
                 <div className="text-2xl font-bold">
@@ -377,7 +366,7 @@ const MyBooking = () => {
                     .reduce((sum, b) => sum + (b.totalPrice || 0), 0)
                     .toLocaleString()}
                 </div>
-                <div className="text-blue-100">Total Spent</div>
+                <div className="text-blue-100">{t("myBookings.totalSpent")}</div>
               </div>
             </div>
           </div>

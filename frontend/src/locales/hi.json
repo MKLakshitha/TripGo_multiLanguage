@@ -134,6 +134,7 @@
   "myBookings": {
     "title": "मेरी",
     "bookings": "बुकिंग",
+    "subtitle": "अपनी सभी यात्रा बुकिंग को एक ही स्थान पर ट्रैक और प्रबंधित करें",
     "travelHistory": "आपका यात्रा इतिहास",
     "searchPlaceholder": "टूर नाम या यात्री नाम से खोजें...",
     "filterByStatus": "स्थिति के अनुसार फ़िल्टर करें",
@@ -156,7 +157,14 @@
     "clearFilters": "फ़िल्टर साफ़ करें",
     "error": "उफ़! कुछ गलत हो गया",
     "tryAgain": "पुनः प्रयास करें",
-    "fetchError": "बुकिंग लाने में विफल।"
+    "fetchError": "बुकिंग लाने में विफल।",
+    "showing": "दिखा रहे हैं",
+    "of": "में से",
+    "bookingsText": "बुकिंग",
+    "people": "लोग",
+    "specialRequests": "विशेष अनुरोध",
+    "totalBookings": "कुल बुकिंग",
+    "totalSpent": "कुल खर्च"
   },
   "about": {
     "title": "आपका स्वागत है",
@@ -188,7 +196,14 @@
     "phone": "फोन",
     "phoneLine": "+91 555 123-4567",
     "email": "ईमेल",
-    "emailLine": "info@tripgo.com"
+    "emailLine": "info@tripgo.com",
+    "contactUs": "संपर्क करें",
+    "emailLabel": "ईमेल",
+    "emailContact": "contact@tripgo.com",
+    "phoneLabel": "फोन",
+    "phoneContact": "+91-9130045670",
+    "addressLabel": "पता",
+    "addressContact": "गाजियाबाद, भारत"
   },
   "common": {
     "loading": "लोड हो रहा है...",

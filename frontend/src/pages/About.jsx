@@ -216,18 +216,18 @@ const About = () => {
             {[
               {
                 icon: <Mail className="w-8 h-8 mb-4" />,
-                title: "Email",
-                content: "contact@tripgo.com",
+                title: t("about.emailLabel"),
+                content: t("about.emailContact"),
               },
               {
                 icon: <Phone className="w-8 h-8 mb-4" />,
-                title: "Phone",
-                content: "+91-9130045670",
+                title: t("about.phoneLabel"),
+                content: t("about.phoneContact"),
               },
               {
                 icon: <MapPin className="w-8 h-8 mb-4" />,
-                title: "Address",
-                content: "Ghaziabad, India",
+                title: t("about.addressLabel"),
+                content: t("about.addressContact"),
               },
             ].map((item, index) => (
               <motion.div
@@ -249,7 +249,7 @@ const About = () => {
               href="mailto:contact@tripgo.com"
               className="inline-block px-8 py-3 bg-white text-blue-500 rounded-full font-semibold hover:bg-blue-100 transition duration-300"
             >
-              Contact Us
+              {t("about.contactUs")}
             </a>
           </div>
         </motion.div>

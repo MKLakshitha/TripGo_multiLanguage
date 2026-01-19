@@ -87,7 +87,11 @@ const useBooking = (tour, navigate) => {
         travelers: 1,
         specialRequests: "",
       }));
-      // navigate("/invoice", { state: { booking: data.booking } });
+      
+      // Navigate to My Bookings page after successful booking
+      if (navigate) {
+        navigate("/my-booking");
+      }
     } catch (error) {
       console.error("Booking error:", error);
       toast.error(t("booking.bookingError") + ": " + error.message);
