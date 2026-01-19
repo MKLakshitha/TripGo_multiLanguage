@@ -9,8 +9,6 @@ import {
   MapPin,
   Phone,
   Mail,
-  Download,
-  Eye,
   Filter,
   Search,
   User,
@@ -334,18 +332,7 @@ const MyBooking = () => {
                         )}
                       </div>
 
-                      {/* Right Section - Actions */}
-                      <div className="flex flex-col space-y-2 lg:ml-6">
-                        <button className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white font-semibold py-2 px-4 rounded-lg transition-all duration-300 transform hover:scale-105 flex items-center justify-center space-x-2">
-                          <Eye size={16} />
-                          <span>View Details</span>
-                        </button>
 
-                        <button className="bg-white hover:bg-gray-50 border-2 border-gray-200 hover:border-gray-300 text-gray-700 font-semibold py-2 px-4 rounded-lg transition-all duration-300 flex items-center justify-center space-x-2">
-                          <Download size={16} />
-                          <span>Download</span>
-                        </button>
-                      </div>
                     </div>
                   </div>
                 );

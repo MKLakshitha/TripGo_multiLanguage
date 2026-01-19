@@ -1,8 +1,10 @@
 import { useState, useEffect, useContext } from "react";
 import { toast } from "react-toastify";
+import { useNavigate } from "react-router-dom";
 import { AppContext } from "../context/AppContext";
 
-const useBooking = (tour, navigate) => {
+const useBooking = (tour) => {
+  const navigate = useNavigate();
   const { user } = useContext(AppContext);
 
   const { title = "", price = 0 } = tour || {};
@@ -85,7 +87,7 @@ const useBooking = (tour, navigate) => {
         travelers: 1,
         specialRequests: "",
       }));
-      // navigate("/invoice", { state: { booking: data.booking } });
+      navigate("/my-booking");
     } catch (error) {
       console.error("Booking error:", error);
       toast.error("Error: " + error.message);
