@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "tours": "Circuits",
+    "myBookings": "Mes Réservations",
+    "login": "Connexion",
+    "signedInAs": "Connecté en tant que",
+    "signOut": "Déconnexion"
+  },
+  "header": {
+    "welcomeTo": "Bienvenue chez",
+    "tripgo": "TripGo",
+    "tagline": "Votre compagnon de voyage ultime!",
+    "description": "Découvrez des destinations passionnantes, des offres exclusives et une expérience de réservation transparente."
+  },
+  "searchBar": {
+    "title": "Trouvez votre",
+    "destination": "Destination Parfaite",
+    "subtitle": "Découvrez des Destinations en Fonction de Vos Intérêts",
+    "location": "Emplacement",
+    "locationDesc": "Où allez-vous ? Nous trouverons la destination parfaite pour votre voyage.",
+    "distance": "Distance",
+    "distanceDesc": "Distance depuis votre emplacement. Choisissez la distance parfaite pour votre voyage.",
+    "maxPeople": "Max. Personnes",
+    "maxPeopleDesc": "Nombre maximum de personnes. Choisissez le nombre parfait pour votre voyage."
+  },
+  "services": {
+    "title": "Ce que nous",
+    "serve": "Offrons",
+    "subtitle": "Nous offrons nos meilleurs services",
+    "flightTitle": "Réservation de Vols",
+    "flightDesc": "Réservez facilement des vols vers votre destination souhaitée. Notre plateforme propose des prix compétitifs et des options de réservation pratiques.",
+    "hotelTitle": "Réservation d'Hôtels",
+    "hotelDesc": "Trouvez et réservez les meilleurs hôtels à votre destination. Des hébergements économiques aux hébergements de luxe, nous avons quelque chose pour chaque voyageur.",
+    "adventureTitle": "Circuits d'Aventure",
+    "adventureDesc": "Embarquez pour des circuits d'aventure passionnants vers certaines des destinations les plus excitantes et inexplorées. Parfait pour les accros à l'adrénaline et les amoureux de la nature."
+  },
+  "allTours": {
+    "title": "Nos Circuits",
+    "tours": "en Vedette",
+    "subtitle": "Des Voyages Inoubliables Adaptés à Vos Intérêts. Explorez le monde de la manière la plus belle et la plus luxueuse possible."
+  },
+  "experience": {
+    "title": "Découvrez notre",
+    "tripgo": "TripGo",
+    "subtitle": "Avec toute notre expérience,",
+    "subtitleLine2": "nous vous fournirons les meilleurs services.",
+    "successfulTrips": "Voyages Réussis",
+    "regularClients": "Clients Réguliers",
+    "experience": "Expérience"
+  },
+  "newsletter": {
+    "title": "Abonnez-vous maintenant pour",
+    "notifications": "les Notifications!",
+    "subtitle": "Restez en avance avec nos alertes de voyage exclusives!",
+    "emailPlaceholder": "Entrez votre email",
+    "subscribe": "S'abonner",
+    "thankYou": "Merci de vous être abonné!"
+  },
+  "footer": {
+    "copyright": "© 2024 TripGo. Tous Droits Réservés. | Propulsé par l'Innovation."
+  },
+  "login": {
+    "welcomeTo": "Bienvenue chez",
+    "tripgo": "TripGo",
+    "loginTitle": "Connexion",
+    "registerTitle": "S'inscrire",
+    "fullName": "Nom Complet",
+    "email": "Email",
+    "password": "Mot de Passe",
+    "fullNamePlaceholder": "Entrez votre nom complet",
+    "emailPlaceholder": "Entrez votre email",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "loginButton": "Connexion",
+    "registerButton": "S'inscrire",
+    "noAccount": "Vous n'avez pas de compte?",
+    "haveAccount": "Vous avez déjà un compte?",
+    "signUp": "S'inscrire",
+    "signIn": "Se Connecter",
+    "allFieldsRequired": "Tous les champs sont obligatoires!",
+    "loginSuccess": "Connexion réussie!",
+    "registerSuccess": "Inscription réussie!"
+  },
+  "tourCard": {
+    "featured": "En Vedette",
+    "perPerson": "/personne",
+    "view": "Voir",
+    "book": "Réserver"
+  },
+  "tourPage": {
+    "allTours": "Tous les Circuits"
+  },
+  "tourDetails": {
+    "tourNotFound": "Circuit non trouvé",
+    "dates": "Dates",
+    "max": "Max",
+    "price": "Prix",
+    "distance": "Distance",
+    "kmAway": "km de distance",
+    "chooseDate": "Choisir une Date",
+    "bookThisTour": "🎉 Réserver ce Circuit",
+    "customerReviews": "Avis des Clients",
+    "stars": "étoiles",
+    "reviews": "avis"
+  },
+  "booking": {
+    "title": "Réservez Votre Aventure",
+    "completeBooking": "Complétez votre réservation pour",
+    "travelerInfo": "Informations du Voyageur",
+    "fullName": "Nom Complet",
+    "fullNamePlaceholder": "Entrez votre nom complet",
+    "email": "Adresse Email",
+    "emailPlaceholder": "votre.email@exemple.fr",
+    "phone": "Numéro de Téléphone",
+    "phonePlaceholder": "+33 1 23 45 67 89",
+    "numTravelers": "Nombre de Voyageurs",
+    "bookingDate": "Date de Réservation",
+    "specialRequests": "Demandes Spéciales",
+    "specialRequestsPlaceholder": "Des exigences spéciales ou des restrictions alimentaires?",
+    "bookingSummary": "Résumé de la Réservation",
+    "tourName": "Nom du Circuit",
+    "basePrice": "Prix de Base",
+    "travelers": "Voyageurs",
+    "serviceFee": "Frais de Service",
+    "tax": "Taxe",
+    "totalAmount": "Montant Total",
+    "confirmBooking": "Confirmer la Réservation",
+    "processing": "Traitement...",
+    "requiredFields": "Veuillez remplir tous les champs obligatoires.",
+    "bookingSuccess": "Réservation réussie!",
+    "bookingError": "Échec de la réservation. Veuillez réessayer."
+  },
+  "myBookings": {
+    "title": "Mes",
+    "bookings": "Réservations",
+    "travelHistory": "Votre Historique de Voyage",
+    "searchPlaceholder": "Rechercher par nom de circuit ou de voyageur...",
+    "filterByStatus": "Filtrer par Statut",
+    "all": "Tous",
+    "confirmed": "Confirmé",
+    "pending": "En Attente",
+    "cancelled": "Annulé",
+    "unknown": "Inconnu",
+    "bookingId": "ID de Réservation",
+    "status": "Statut",
+    "bookingDate": "Date de Réservation",
+    "travelerName": "Nom du Voyageur",
+    "contact": "Contact",
+    "totalAmount": "Montant Total",
+    "viewInvoice": "Voir la Facture",
+    "downloadInvoice": "Télécharger la Facture",
+    "noBookings": "Aucune réservation trouvée",
+    "noBookingsDesc": "Vous n'avez pas encore fait de réservation. Commencez à explorer nos circuits!",
+    "adjustFilters": "Essayez d'ajuster votre recherche ou vos filtres",
+    "clearFilters": "Effacer les Filtres",
+    "error": "Oups! Quelque chose s'est mal passé",
+    "tryAgain": "Réessayer",
+    "fetchError": "Échec de récupération des réservations."
+  },
+  "about": {
+    "title": "Bienvenue chez",
+    "tripgo": "TripGo",
+    "subtitle": "Votre Agence de Voyage de Confiance pour des Expériences de Réservation Transparentes",
+    "aboutTitle": "À propos de",
+    "aboutDesc": "TripGo est une agence de voyage de premier plan offrant des expériences de réservation personnalisées pour aider les voyageurs à planifier leurs vacances parfaites. Avec une large gamme de circuits, d'activités et d'hébergements, nous réalisons vos rêves de voyage.",
+    "missionTitle": "Notre",
+    "mission": "Mission",
+    "missionDesc": "Notre mission est de fournir des services de réservation de voyages transparents, fiables et sans tracas qui permettent à nos clients d'explorer le monde facilement. Nous nous efforçons d'offrir un service client exceptionnel et les meilleures offres de voyage.",
+    "whyChooseTitle": "Pourquoi",
+    "us": "Nous Choisir?",
+    "professionalService": "Service Professionnel",
+    "professionalDesc": "Nous offrons une assistance experte et des conseils personnalisés pour nous assurer que votre voyage est parfaitement planifié.",
+    "uniqueDestinations": "Destinations Uniques",
+    "uniqueDesc": "Nous organisons des forfaits de voyage exclusifs vers des destinations uniques à travers le monde, garantissant une expérience unique.",
+    "affordablePrices": "Prix Abordables",
+    "affordableDesc": "Nous nous assurons que nos clients obtiennent le meilleur rapport qualité-prix, offrant des tarifs compétitifs pour chaque voyage.",
+    "teamTitle": "Rencontrez Notre",
+    "team": "Équipe",
+    "teamDesc": "Notre équipe est dédiée à rendre vos expériences de voyage inoubliables. Nous sommes des experts en planification de voyage et passionnés de vous aider à découvrir les meilleures destinations.",
+    "travelConsultant": "Consultant en Voyage",
+    "travelSpecialist": "Spécialiste du Voyage",
+    "contactTitle": "Entrer en",
+    "touch": "Contact",
+    "contactDesc": "Vous avez des questions ou besoin d'aide? N'hésitez pas à nous contacter!",
+    "address": "Adresse",
+    "addressLine": "123 Rue des Voyages, Ville Aventure, 10001",
+    "phone": "Téléphone",
+    "phoneLine": "+33 555 123-4567",
+    "email": "Email",
+    "emailLine": "info@tripgo.com"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer",
+    "submit": "Soumettre",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "clear": "Effacer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "viewDetails": "Voir les Détails",
+    "required": "*"
+  },
+  "invoice": {
+    "booking": "Réservation",
+    "invoice": "Facture",
+    "error": "Erreur: Aucune Donnée de Réservation",
+    "errorDesc": "Une erreur s'est produite lors de la récupération de vos informations de réservation. Veuillez réessayer ou contacter le service client.",
+    "customerDetails": "Détails du Client",
+    "name": "Nom",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "packageDetails": "Détails du Forfait",
+    "tour": "Tour",
+    "numTravelers": "Nombre de Voyageurs",
+    "totalPrice": "Prix Total",
+    "loadingDoc": "Chargement du document...",
+    "downloadPDF": "Télécharger la Facture en PDF",
+    "unableGenerate": "Impossible de générer le PDF: Données de réservation manquantes"
+  },
+  "tours": {
+    "westminsterBridge": {
+      "desc": "Découvrez l'emblématique pont de Westminster, offrant une vue imprenable sur les Chambres du Parlement et Big Ben au cœur de Londres."
+    },
+    "bali": {
+      "desc": "Détendez-vous dans le paradis tropical de Bali, en Indonésie, connu pour ses plages, ses jungles et sa culture vibrante."
+    },
+    "snowyMountains": {
+      "desc": "Découvrez la beauté sereine des Montagnes Enneigées en Thaïlande, parfaites pour les aventuriers et les amoureux de la nature."
+    },
+    "beautifulSunrise": {
+      "desc": "Levez-vous tôt pour assister au lever de soleil à couper le souffle sur les paysages époustouflants de la Thaïlande."
+    },
+    "nusaPendia": {
+      "desc": "Explorez la beauté exotique de Nusa Pendia, une île tranquille près de Bali, offrant des plages immaculées et des eaux cristallines."
+    },
+    "cherryBlossoms": {
+      "desc": "Découvrez la magie du Japon au printemps, lorsque les cerisiers en fleurs transforment le pays en un paradis rose."
+    },
+    "holmenLofoten": {
+      "desc": "Explorez la beauté sauvage de Holmen Lofoten, avec ses paysages spectaculaires, ses eaux cristallines et ses villages de pêcheurs animés."
+    },
+    "snowyMountains2": {
+      "desc": "Revisitez les Montagnes Enneigées magiques de Thaïlande, un lieu de tranquillité et d'aventure parfait pour une escapade mémorable."
+    }
+  }
+}

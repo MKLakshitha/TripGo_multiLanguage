@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "tours": "Tours",
+    "myBookings": "My Bookings",
+    "login": "Login",
+    "signedInAs": "Signed in as",
+    "signOut": "Sign out"
+  },
+  "header": {
+    "welcomeTo": "Welcome to",
+    "tripgo": "TripGo",
+    "tagline": "Your ultimate travel companion!",
+    "description": "Discover exciting destinations, exclusive deals, and seamless booking experience."
+  },
+  "searchBar": {
+    "title": "Find Your Perfect",
+    "destination": "Destination",
+    "subtitle": "Discover Destinations Based on Your Interests",
+    "location": "Location",
+    "locationDesc": "Where are you going? We'll find the perfect destination for your trip.",
+    "distance": "Distance",
+    "distanceDesc": "Distance from your location. Choose the perfect distance for your trip.",
+    "maxPeople": "Max People",
+    "maxPeopleDesc": "Max people. Choose the perfect number of people for your trip."
+  },
+  "services": {
+    "title": "What we",
+    "serve": "Serve",
+    "subtitle": "We offer our best services",
+    "flightTitle": "Flight Booking",
+    "flightDesc": "Book flights to your desired destination with ease. Our platform offers competitive prices and convenient booking options.",
+    "hotelTitle": "Hotel Booking",
+    "hotelDesc": "Find and book the best hotels at your destination. From budget stays to luxury accommodations, we have something for every traveler.",
+    "adventureTitle": "Adventure Tours",
+    "adventureDesc": "Embark on thrilling adventure tours to some of the most exciting and unexplored destinations. Perfect for adrenaline junkies and nature lovers."
+  },
+  "allTours": {
+    "title": "Our Featured",
+    "tours": "Tours",
+    "subtitle": "Unforgettable Journeys Tailored to Your Interests. Explore the world in the most beautiful and luxurious ways possible."
+  },
+  "experience": {
+    "title": "Experience our",
+    "tripgo": "TripGo",
+    "subtitle": "With our all experience,",
+    "subtitleLine2": "we will provide you the best services.",
+    "successfulTrips": "Successful Trips",
+    "regularClients": "Regular Clients",
+    "experience": "Experience"
+  },
+  "newsletter": {
+    "title": "Subscribe Now for",
+    "notifications": "Notifications!",
+    "subtitle": "Stay one step ahead with our exclusive travel alerts!",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "thankYou": "Thank you for subscribing!"
+  },
+  "footer": {
+    "copyright": "© 2024 TripGo. All Rights Reserved. | Powered by Innovation."
+  },
+  "login": {
+    "welcomeTo": "Welcome to",
+    "tripgo": "TripGo",
+    "loginTitle": "Login",
+    "registerTitle": "Register",
+    "fullName": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "fullNamePlaceholder": "Enter your full name",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "signUp": "Sign Up",
+    "signIn": "Sign In",
+    "allFieldsRequired": "All fields are required!",
+    "loginSuccess": "Logged in successfully!",
+    "registerSuccess": "Registered successfully!"
+  },
+  "tourCard": {
+    "featured": "Featured",
+    "perPerson": "/person",
+    "view": "View",
+    "book": "Book"
+  },
+  "tourPage": {
+    "allTours": "All Tours"
+  },
+  "tourDetails": {
+    "tourNotFound": "Tour not found",
+    "dates": "Dates",
+    "max": "Max",
+    "price": "Price",
+    "distance": "Distance",
+    "kmAway": "km away",
+    "chooseDate": "Choose Date",
+    "bookThisTour": "🎉 Book This Tour",
+    "customerReviews": "Customer Reviews",
+    "stars": "stars",
+    "reviews": "reviews"
+  },
+  "booking": {
+    "title": "Book Your Adventure",
+    "completeBooking": "Complete your booking for",
+    "travelerInfo": "Traveler Information",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "email": "Email Address",
+    "emailPlaceholder": "your.email@example.com",
+    "phone": "Phone Number",
+    "phonePlaceholder": "+91 98765 43210",
+    "numTravelers": "Number of Travelers",
+    "bookingDate": "Booking Date",
+    "specialRequests": "Special Requests",
+    "specialRequestsPlaceholder": "Any special requirements or dietary restrictions?",
+    "bookingSummary": "Booking Summary",
+    "tourName": "Tour Name",
+    "basePrice": "Base Price",
+    "travelers": "Travelers",
+    "serviceFee": "Service Fee",
+    "tax": "Tax",
+    "totalAmount": "Total Amount",
+    "confirmBooking": "Confirm Booking",
+    "processing": "Processing...",
+    "requiredFields": "Please fill out all required fields.",
+    "bookingSuccess": "Booking successful!",
+    "bookingError": "Booking failed. Please try again."
+  },
+  "myBookings": {
+    "title": "My",
+    "bookings": "Bookings",
+    "travelHistory": "Your Travel History",
+    "searchPlaceholder": "Search by tour name or traveler name...",
+    "filterByStatus": "Filter by Status",
+    "all": "All",
+    "confirmed": "Confirmed",
+    "pending": "Pending",
+    "cancelled": "Cancelled",
+    "unknown": "Unknown",
+    "bookingId": "Booking ID",
+    "status": "Status",
+    "bookingDate": "Booking Date",
+    "travelerName": "Traveler Name",
+    "contact": "Contact",
+    "totalAmount": "Total Amount",
+    "viewInvoice": "View Invoice",
+    "downloadInvoice": "Download Invoice",
+    "noBookings": "No bookings found",
+    "noBookingsDesc": "You haven't made any bookings yet. Start exploring our tours!",
+    "adjustFilters": "Try adjusting your search or filters",
+    "clearFilters": "Clear Filters",
+    "error": "Oops! Something went wrong",
+    "tryAgain": "Try Again",
+    "fetchError": "Failed to fetch bookings."
+  },
+  "about": {
+    "title": "Welcome to",
+    "tripgo": "TripGo",
+    "subtitle": "Your Trusted Travel Agency for Seamless Booking Experiences",
+    "aboutTitle": "About",
+    "aboutDesc": "TripGo is a leading travel agency offering personalized booking experiences to help travelers plan their perfect vacation. With a wide range of tours, activities, and accommodations, we make your travel dreams come true.",
+    "missionTitle": "Our",
+    "mission": "Mission",
+    "missionDesc": "Our mission is to provide seamless, reliable, and hassle-free travel booking services that empower our customers to explore the world with ease. We strive to offer exceptional customer service and the best travel deals.",
+    "whyChooseTitle": "Why Choose",
+    "us": "Us?",
+    "professionalService": "Professional Service",
+    "professionalDesc": "We offer expert assistance and personalized guidance to ensure your trip is perfectly planned.",
+    "uniqueDestinations": "Unique Destinations",
+    "uniqueDesc": "We curate exclusive travel packages to unique destinations across the world, ensuring a one-of-a-kind experience.",
+    "affordablePrices": "Affordable Prices",
+    "affordableDesc": "We ensure our customers get the best value for their money, offering competitive rates for every trip.",
+    "teamTitle": "Meet Our",
+    "team": "Team",
+    "teamDesc": "Our team is dedicated to making your travel experiences unforgettable. We are experts in travel planning and passionate about helping you discover the best destinations.",
+    "travelConsultant": "Travel Consultant",
+    "travelSpecialist": "Travel Specialist",
+    "contactTitle": "Get in",
+    "touch": "Touch",
+    "contactDesc": "Have questions or need assistance? Feel free to reach out to us!",
+    "address": "Address",
+    "addressLine": "123 Travel Lane, Adventure City, 10001",
+    "phone": "Phone",
+    "phoneLine": "+1 (555) 123-4567",
+    "email": "Email",
+    "emailLine": "info@tripgo.com"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "submit": "Submit",
+    "search": "Search",
+    "filter": "Filter",
+    "clear": "Clear",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "viewDetails": "View Details",
+    "required": "*"
+  },
+  "invoice": {
+    "booking": "Booking",
+    "invoice": "Invoice",
+    "error": "Error: No Booking Data",
+    "errorDesc": "There was an error retrieving your booking information. Please try again or contact customer support.",
+    "customerDetails": "Customer Details",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "packageDetails": "Package Details",
+    "tour": "Tour",
+    "numTravelers": "Number of Travelers",
+    "totalPrice": "Total Price",
+    "loadingDoc": "Loading document...",
+    "downloadPDF": "Download Invoice PDF",
+    "unableGenerate": "Unable to generate PDF: Missing booking data"
+  },
+  "tours": {
+    "westminsterBridge": {
+      "desc": "Experience the iconic Westminster Bridge, offering stunning views of the Houses of Parliament and Big Ben in the heart of London."
+    },
+    "bali": {
+      "desc": "Relax in the tropical paradise of Bali, Indonesia, known for its beaches, jungles, and vibrant culture."
+    },
+    "snowyMountains": {
+      "desc": "Discover the serene beauty of the Snowy Mountains in Thailand, perfect for adventurers and nature lovers."
+    },
+    "beautifulSunrise": {
+      "desc": "Wake up early to witness the breathtaking sunrise over Thailand's stunning landscapes."
+    },
+    "nusaPendia": {
+      "desc": "Explore the exotic beauty of Nusa Pendia, a tranquil island near Bali, offering pristine beaches and crystal-clear waters."
+    },
+    "cherryBlossoms": {
+      "desc": "Experience the magic of Japan in spring, as cherry blossoms bloom, transforming the country into a pink wonderland."
+    },
+    "holmenLofoten": {
+      "desc": "Explore the rugged beauty of Holmen Lofoten, with its dramatic landscapes, crystal-clear waters, and vibrant fishing villages."
+    },
+    "snowyMountains2": {
+      "desc": "Revisit the magical Snowy Mountains, Thailand, a place of tranquility and adventure perfect for a memorable getaway."
+    }
+  }
+}

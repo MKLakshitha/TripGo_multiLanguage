@@ -1,0 +1,255 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "tours": "Touren",
+    "myBookings": "Meine Buchungen",
+    "login": "Anmelden",
+    "signedInAs": "Angemeldet als",
+    "signOut": "Abmelden"
+  },
+  "header": {
+    "welcomeTo": "Willkommen bei",
+    "tripgo": "TripGo",
+    "tagline": "Ihr ultimativer Reisebegleiter!",
+    "description": "Entdecken Sie spannende Reiseziele, exklusive Angebote und nahtlose Buchungserlebnisse."
+  },
+  "searchBar": {
+    "title": "Finden Sie Ihr perfektes",
+    "destination": "Reiseziel",
+    "subtitle": "Entdecken Sie Reiseziele basierend auf Ihren Interessen",
+    "location": "Standort",
+    "locationDesc": "Wohin möchten Sie reisen? Wir finden das perfekte Reiseziel für Ihre Reise.",
+    "distance": "Entfernung",
+    "distanceDesc": "Entfernung von Ihrem Standort. Wählen Sie die perfekte Entfernung für Ihre Reise.",
+    "maxPeople": "Max. Personen",
+    "maxPeopleDesc": "Maximale Personenzahl. Wählen Sie die perfekte Anzahl für Ihre Reise."
+  },
+  "services": {
+    "title": "Was wir",
+    "serve": "Bieten",
+    "subtitle": "Wir bieten unsere besten Dienstleistungen",
+    "flightTitle": "Flugbuchung",
+    "flightDesc": "Buchen Sie Flüge zu Ihrem gewünschten Reiseziel mit Leichtigkeit. Unsere Plattform bietet wettbewerbsfähige Preise und bequeme Buchungsoptionen.",
+    "hotelTitle": "Hotelbuchung",
+    "hotelDesc": "Finden und buchen Sie die besten Hotels an Ihrem Reiseziel. Von günstigen Unterkünften bis hin zu Luxushotels haben wir für jeden Reisenden etwas.",
+    "adventureTitle": "Abenteuertouren",
+    "adventureDesc": "Begeben Sie sich auf aufregende Abenteuertouren zu einigen der aufregendsten und unerforschten Reiseziele. Perfekt für Adrenalinjunkies und Naturliebhaber."
+  },
+  "allTours": {
+    "title": "Unsere Featured",
+    "tours": "Touren",
+    "subtitle": "Unvergessliche Reisen, die auf Ihre Interessen zugeschnitten sind. Erkunden Sie die Welt auf die schönste und luxuriöseste Art und Weise."
+  },
+  "experience": {
+    "title": "Erleben Sie unser",
+    "tripgo": "TripGo",
+    "subtitle": "Mit all unserer Erfahrung",
+    "subtitleLine2": "bieten wir Ihnen die besten Dienstleistungen.",
+    "successfulTrips": "Erfolgreiche Reisen",
+    "regularClients": "Stammkunden",
+    "experience": "Erfahrung"
+  },
+  "newsletter": {
+    "title": "Jetzt abonnieren für",
+    "notifications": "Benachrichtigungen!",
+    "subtitle": "Bleiben Sie mit unseren exklusiven Reisewarnungen immer einen Schritt voraus!",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail ein",
+    "subscribe": "Abonnieren",
+    "thankYou": "Vielen Dank für Ihr Abonnement!"
+  },
+  "footer": {
+    "copyright": "© 2024 TripGo. Alle Rechte vorbehalten. | Betrieben von Innovation."
+  },
+  "login": {
+    "welcomeTo": "Willkommen bei",
+    "tripgo": "TripGo",
+    "loginTitle": "Anmelden",
+    "registerTitle": "Registrieren",
+    "fullName": "Vollständiger Name",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "fullNamePlaceholder": "Geben Sie Ihren vollständigen Namen ein",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail ein",
+    "passwordPlaceholder": "Geben Sie Ihr Passwort ein",
+    "loginButton": "Anmelden",
+    "registerButton": "Registrieren",
+    "noAccount": "Noch kein Konto?",
+    "haveAccount": "Haben Sie bereits ein Konto?",
+    "signUp": "Registrieren",
+    "signIn": "Anmelden",
+    "allFieldsRequired": "Alle Felder sind erforderlich!",
+    "loginSuccess": "Erfolgreich angemeldet!",
+    "registerSuccess": "Erfolgreich registriert!"
+  },
+  "tourCard": {
+    "featured": "Featured",
+    "perPerson": "/Person",
+    "view": "Ansehen",
+    "book": "Buchen"
+  },
+  "tourPage": {
+    "allTours": "Alle Touren"
+  },
+  "tourDetails": {
+    "tourNotFound": "Tour nicht gefunden",
+    "dates": "Termine",
+    "max": "Max",
+    "price": "Preis",
+    "distance": "Entfernung",
+    "kmAway": "km entfernt",
+    "chooseDate": "Datum wählen",
+    "bookThisTour": "🎉 Diese Tour buchen",
+    "customerReviews": "Kundenbewertungen",
+    "stars": "Sterne",
+    "reviews": "Bewertungen"
+  },
+  "booking": {
+    "title": "Buchen Sie Ihr Abenteuer",
+    "completeBooking": "Vervollständigen Sie Ihre Buchung für",
+    "travelerInfo": "Reiseinformationen",
+    "fullName": "Vollständiger Name",
+    "fullNamePlaceholder": "Geben Sie Ihren vollständigen Namen ein",
+    "email": "E-Mail-Adresse",
+    "emailPlaceholder": "ihre.email@beispiel.de",
+    "phone": "Telefonnummer",
+    "phonePlaceholder": "+49 123 456789",
+    "numTravelers": "Anzahl der Reisenden",
+    "bookingDate": "Buchungsdatum",
+    "specialRequests": "Besondere Wünsche",
+    "specialRequestsPlaceholder": "Besondere Anforderungen oder diätetische Einschränkungen?",
+    "bookingSummary": "Buchungszusammenfassung",
+    "tourName": "Tourname",
+    "basePrice": "Grundpreis",
+    "travelers": "Reisende",
+    "serviceFee": "Servicegebühr",
+    "tax": "Steuer",
+    "totalAmount": "Gesamtbetrag",
+    "confirmBooking": "Buchung bestätigen",
+    "processing": "Verarbeitung...",
+    "requiredFields": "Bitte füllen Sie alle erforderlichen Felder aus.",
+    "bookingSuccess": "Buchung erfolgreich!",
+    "bookingError": "Buchung fehlgeschlagen. Bitte versuchen Sie es erneut."
+  },
+  "myBookings": {
+    "title": "Meine",
+    "bookings": "Buchungen",
+    "travelHistory": "Ihre Reisehistorie",
+    "searchPlaceholder": "Suche nach Tourname oder Reisename...",
+    "filterByStatus": "Nach Status filtern",
+    "all": "Alle",
+    "confirmed": "Bestätigt",
+    "pending": "Ausstehend",
+    "cancelled": "Storniert",
+    "unknown": "Unbekannt",
+    "bookingId": "Buchungs-ID",
+    "status": "Status",
+    "bookingDate": "Buchungsdatum",
+    "travelerName": "Name des Reisenden",
+    "contact": "Kontakt",
+    "totalAmount": "Gesamtbetrag",
+    "viewInvoice": "Rechnung anzeigen",
+    "downloadInvoice": "Rechnung herunterladen",
+    "noBookings": "Keine Buchungen gefunden",
+    "noBookingsDesc": "Sie haben noch keine Buchungen vorgenommen. Beginnen Sie, unsere Touren zu erkunden!",
+    "adjustFilters": "Versuchen Sie, Ihre Suche oder Filter anzupassen",
+    "clearFilters": "Filter löschen",
+    "error": "Hoppla! Etwas ist schief gelaufen",
+    "tryAgain": "Erneut versuchen",
+    "fetchError": "Fehler beim Abrufen der Buchungen."
+  },
+  "about": {
+    "title": "Willkommen bei",
+    "tripgo": "TripGo",
+    "subtitle": "Ihre vertrauenswürdige Reiseagentur für nahtlose Buchungserlebnisse",
+    "aboutTitle": "Über",
+    "aboutDesc": "TripGo ist eine führende Reiseagentur, die personalisierte Buchungserlebnisse anbietet, um Reisenden bei der Planung ihres perfekten Urlaubs zu helfen. Mit einer breiten Palette an Touren, Aktivitäten und Unterkünften machen wir Ihre Reiseträume wahr.",
+    "missionTitle": "Unsere",
+    "mission": "Mission",
+    "missionDesc": "Unsere Mission ist es, nahtlose, zuverlässige und problemlose Reisebuchungsdienste anzubieten, die unseren Kunden ermöglichen, die Welt mit Leichtigkeit zu erkunden. Wir streben danach, außergewöhnlichen Kundenservice und die besten Reiseangebote zu bieten.",
+    "whyChooseTitle": "Warum uns",
+    "us": "wählen?",
+    "professionalService": "Professioneller Service",
+    "professionalDesc": "Wir bieten fachkundige Unterstützung und persönliche Beratung, um sicherzustellen, dass Ihre Reise perfekt geplant ist.",
+    "uniqueDestinations": "Einzigartige Reiseziele",
+    "uniqueDesc": "Wir kuratieren exklusive Reisepakete zu einzigartigen Reisezielen auf der ganzen Welt und sorgen für ein einzigartiges Erlebnis.",
+    "affordablePrices": "Erschwingliche Preise",
+    "affordableDesc": "Wir stellen sicher, dass unsere Kunden das beste Preis-Leistungs-Verhältnis erhalten und bieten wettbewerbsfähige Preise für jede Reise.",
+    "teamTitle": "Lernen Sie unser",
+    "team": "Team kennen",
+    "teamDesc": "Unser Team ist bestrebt, Ihre Reiseerlebnisse unvergesslich zu machen. Wir sind Experten in der Reiseplanung und leidenschaftlich daran interessiert, Ihnen zu helfen, die besten Reiseziele zu entdecken.",
+    "travelConsultant": "Reiseberater",
+    "travelSpecialist": "Reisespezialist",
+    "contactTitle": "Kontaktieren Sie",
+    "touch": "uns",
+    "contactDesc": "Haben Sie Fragen oder benötigen Sie Unterstützung? Zögern Sie nicht, uns zu kontaktieren!",
+    "address": "Adresse",
+    "addressLine": "123 Reisestraße, Abenteuerstadt, 10001",
+    "phone": "Telefon",
+    "phoneLine": "+49 555 123-4567",
+    "email": "E-Mail",
+    "emailLine": "info@tripgo.com"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "close": "Schließen",
+    "submit": "Absenden",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "clear": "Löschen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "previous": "Vorherige",
+    "viewDetails": "Details anzeigen",
+    "required": "*"
+  },
+  "invoice": {
+    "booking": "Buchung",
+    "invoice": "Rechnung",
+    "error": "Fehler: Keine Buchungsdaten",
+    "errorDesc": "Beim Abrufen Ihrer Buchungsinformationen ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder wenden Sie sich an den Kundendienst.",
+    "customerDetails": "Kundendetails",
+    "name": "Name",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "packageDetails": "Paketdetails",
+    "tour": "Tour",
+    "numTravelers": "Anzahl der Reisenden",
+    "totalPrice": "Gesamtpreis",
+    "loadingDoc": "Dokument wird geladen...",
+    "downloadPDF": "Rechnung als PDF herunterladen",
+    "unableGenerate": "PDF kann nicht generiert werden: Buchungsdaten fehlen"
+  },
+  "tours": {
+    "westminsterBridge": {
+      "desc": "Erleben Sie die ikonische Westminster Bridge mit atemberaubenden Blicken auf das Parlament und Big Ben im Herzen von London."
+    },
+    "bali": {
+      "desc": "Entspannen Sie im tropischen Paradies Bali, Indonesien, bekannt für seine Strände, Dschungel und lebendige Kultur."
+    },
+    "snowyMountains": {
+      "desc": "Entdecken Sie die ruhige Schönheit der verschneiten Berge in Thailand, perfekt für Abenteurer und Naturliebhaber."
+    },
+    "beautifulSunrise": {
+      "desc": "Stehen Sie früh auf, um den atemberaubenden Sonnenaufgang über Thailands atemberaubenden Landschaften zu erleben."
+    },
+    "nusaPendia": {
+      "desc": "Erkunden Sie die exotische Schönheit von Nusa Pendia, einer ruhigen Insel in der Nähe von Bali, die unberührte Strände und kristallklares Wasser bietet."
+    },
+    "cherryBlossoms": {
+      "desc": "Erleben Sie die Magie Japans im Frühling, wenn die Kirschblüten blühen und das Land in ein rosa Wunderland verwandeln."
+    },
+    "holmenLofoten": {
+      "desc": "Erkunden Sie die raue Schönheit von Holmen Lofoten mit seinen dramatischen Landschaften, kristallklarem Wasser und lebhaften Fischerdörfern."
+    },
+    "snowyMountains2": {
+      "desc": "Besuchen Sie erneut die magischen verschneiten Berge in Thailand, ein Ort der Ruhe und des Abenteuers, perfekt für einen unvergesslichen Kurzurlaub."
+    }
+  }
+}
