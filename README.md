@@ -1,6 +1,6 @@
 # TripGo - Multi-Language Travel Booking Application
 
-A full-stack travel booking application built with React, Node.js, Express, and MongoDB. This application allows users to browse tours, make bookings, and manage their reservations.
+A full-stack travel booking application built with React, Node.js, Express, and MongoDB. 
 
 ## 🚀 Features
 
