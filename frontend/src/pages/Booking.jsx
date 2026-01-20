@@ -169,7 +169,7 @@ const Booking = () => {
                   <label className="block text-sm font-semibold text-gray-700 mb-2">
                     {t("booking.specialRequests")}
                     <span className="text-gray-500 font-normal ml-1">
-                      (Optional)
+                      ({t("booking.optional")})
                     </span>
                   </label>
                   <textarea

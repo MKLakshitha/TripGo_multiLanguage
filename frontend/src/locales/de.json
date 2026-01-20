@@ -37,7 +37,7 @@
     "adventureDesc": "Begeben Sie sich auf aufregende Abenteuertouren zu einigen der aufregendsten und unerforschten Reiseziele. Perfekt für Adrenalinjunkies und Naturliebhaber."
   },
   "allTours": {
-    "title": "Unsere Featured",
+    "title": "Unsere Empfohlenen",
     "tours": "Touren",
     "subtitle": "Unvergessliche Reisen, die auf Ihre Interessen zugeschnitten sind. Erkunden Sie die Welt auf die schönste und luxuriöseste Art und Weise."
   },
@@ -83,7 +83,7 @@
     "registerSuccess": "Erfolgreich registriert!"
   },
   "tourCard": {
-    "featured": "Featured",
+    "featured": "Vorgestellt",
     "perPerson": "/Person",
     "view": "Ansehen",
     "book": "Buchen"
@@ -117,6 +117,7 @@
     "numTravelers": "Anzahl der Reisenden",
     "bookingDate": "Buchungsdatum",
     "specialRequests": "Besondere Wünsche",
+    "optional": "Optional",
     "specialRequestsPlaceholder": "Besondere Anforderungen oder diätetische Einschränkungen?",
     "bookingSummary": "Buchungszusammenfassung",
     "tourName": "Tourname",

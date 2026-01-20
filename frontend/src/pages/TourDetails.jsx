@@ -7,7 +7,7 @@ import { useTranslation } from "react-i18next";
 
 const TourDetails = () => {
   const { user } = useContext(AppContext);
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
   const navigate = useNavigate();
   const { id } = useParams();
   const tour = tourData.find((tour) => tour.id === id);
@@ -117,7 +117,7 @@ const TourDetails = () => {
               >
                 {availableDates.map((date, idx) => (
                   <option key={idx} value={date}>
-                    {new Date(date).toLocaleDateString("en-US", {
+                    {new Date(date).toLocaleDateString(i18n.language, {
                       weekday: "long",
                       year: "numeric",
                       month: "long",

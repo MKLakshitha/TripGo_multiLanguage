@@ -117,6 +117,7 @@
     "numTravelers": "यात्रियों की संख्या",
     "bookingDate": "बुकिंग तारीख",
     "specialRequests": "विशेष अनुरोध",
+    "optional": "वैकल्पिक",
     "specialRequestsPlaceholder": "कोई विशेष आवश्यकताएं या आहार प्रतिबंध?",
     "bookingSummary": "बुकिंग सारांश",
     "tourName": "टूर का नाम",

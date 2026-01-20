@@ -117,6 +117,7 @@
     "numTravelers": "Nombre de Voyageurs",
     "bookingDate": "Date de Réservation",
     "specialRequests": "Demandes Spéciales",
+    "optional": "Optionnel",
     "specialRequestsPlaceholder": "Des exigences spéciales ou des restrictions alimentaires?",
     "bookingSummary": "Résumé de la Réservation",
     "tourName": "Nom du Circuit",

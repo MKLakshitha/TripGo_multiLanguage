@@ -117,6 +117,7 @@
     "numTravelers": "Number of Travelers",
     "bookingDate": "Booking Date",
     "specialRequests": "Special Requests",
+    "optional": "Optional",
     "specialRequestsPlaceholder": "Any special requirements or dietary restrictions?",
     "bookingSummary": "Booking Summary",
     "tourName": "Tour Name",
